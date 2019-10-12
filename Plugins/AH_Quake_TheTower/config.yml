@@ -1,0 +1,13 @@
+#Delfault Config for QuakeCraft Plugin by Exorth
+database:
+  arenaname:
+# Les reloads doivents êtres multiples de 0.25 sec
+reload:
+  wood: 3.0
+  stone: 2.5
+  iron: 2.0
+  diamond: 1.5 
+arena:
+  configs:
+    minplayerstostart: 10
+  spawns:

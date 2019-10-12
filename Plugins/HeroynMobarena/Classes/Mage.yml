@@ -1,0 +1,39 @@
+#MAGE CONFIGURATION
+
+1:
+  life: 30.0
+  resistance: 25
+  damage: 5
+  speed: 1
+  jump: 1
+  
+2:
+  life: 32.0
+  resistance: 27
+  damage: 5.5
+  speed: 1
+  jump: 1
+  
+3:
+  life: 35.0
+  resistance: 29
+  damage: 6
+  speed: 1
+  jump: 1
+  
+4:
+  life: 37.0
+  resistance: 31
+  damage: 6.5
+  speed: 1
+  jump: 1
+  
+5:
+  life: 40.0
+  resistance: 35
+  damage: 7
+  speed: 1
+  jump: 1
+  
+  
+kit:

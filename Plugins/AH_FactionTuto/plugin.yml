@@ -1,0 +1,7 @@
+name: AH_FactionTuto
+version: 1.0
+author: Exorth
+main: fr.exorth.FactionTuto
+commands:
+  ft:
+    description: Gérer le tuto

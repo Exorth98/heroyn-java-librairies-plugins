@@ -1,0 +1,18 @@
+name: AHFactionShop
+version: 1.0
+author: Exorth
+main: fr.exorth.factionshop
+depends: [Vault]
+commands:
+  hdv:
+    description: accès hdv/shop
+    permission: factionshop.hdv.use
+  facshopnpc:
+    description: Spawn un NPC Shop
+    permission: factionshop.facshopnpc.use
+  setshopzone:
+    description: Configurer la zone marchande
+    permission: factionshop.setshopzone.use
+  factionshopload:
+    description: reload configs
+    permission: factionshop.reload.use

@@ -1,0 +1,14 @@
+name: HeroynMobarena
+version: 1.0
+author: HeroynDev
+main: net.heroyn.mobarena.HeroynMobarena
+commands:
+  maconf:
+    description: Mobarena Configuration
+    permission: heroynmobarena.maconf.use
+  ma:
+    description: Mobarena play
+    permission: heroynmobarena.ma.use
+  testa:
+    description: Mobarena tests
+    permission: heroynmobarena.testa.use

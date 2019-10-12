@@ -1,0 +1,12 @@
+#Default config for AH_MineGestion by Exorth
+
+Prices:
+    STONE: 100
+    IRON: 200
+    DIAMOND: 300
+    DIAMOND_X: 500
+    
+
+MineZone:
+  pos1:
+  pos2:

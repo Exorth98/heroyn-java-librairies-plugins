@@ -1,0 +1,13 @@
+name: AHQuake
+version: 1.0
+author: Exorth
+main: fr.exorth.Quake
+commands:
+  addspawn:
+    description: Permet d'ajouter un spawn
+    permission: addspawn.use
+  forcestart:
+    description: Permet de forcer le demarrage du jeu
+    permission: forcestart.use
+  lobby:
+    description: retour au lobby

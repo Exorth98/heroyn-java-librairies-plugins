@@ -1,0 +1,10 @@
+name: AH_PlayerShop
+version: 2.0
+author: Exorth
+main: fr.exorth.PlayerShop
+depends: [AH_API]
+commands:
+  hdv:
+    description: Accès hôtel des ventes
+    permission: playershop.hdv.use
+ 

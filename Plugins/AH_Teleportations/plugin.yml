@@ -1,0 +1,8 @@
+name: AH_Teleportations
+version: 1.0
+author: Exorth
+main: fr.exorth.Teleportations
+commands:
+  tpr:
+    description: Gestion téléportations
+    permission: teleportations.tpr.use

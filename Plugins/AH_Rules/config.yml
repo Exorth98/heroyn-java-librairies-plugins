@@ -1,0 +1,15 @@
+#Default config for AH_Rules by Exorth
+
+Rules:
+- '&6========== Règles =========='
+- '&c'
+- '&eCeci est un test de règles'
+- '&c'
+- '&cAttention à ne pas faire:'
+- '&c- Ceci'
+- '&c- ou cela'
+- '&c'
+- '&eMerci'
+
+
+

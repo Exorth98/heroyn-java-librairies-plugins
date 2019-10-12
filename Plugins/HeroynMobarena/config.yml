@@ -1,0 +1,9 @@
+#Default config for HeroynMobarena
+
+Arenas:
+
+
+Classes:
+  - Mage
+  - Tank
+  - Knight

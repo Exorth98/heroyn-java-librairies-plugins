@@ -1,0 +1,7 @@
+name: AHQuakeDatabaseSign
+version: 1.0
+author: Exorth
+main: fr.exorth.Main
+commands:
+  lobby:
+    description: Permet de revenir au lobby

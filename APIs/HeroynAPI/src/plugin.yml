@@ -1,0 +1,8 @@
+name: HeroynApi
+author: foulehistory
+version: 1.0
+main: net.heroyn.heroynapi.HeroynAPI
+api-version: 1.13
+commands:
+  structureapi:
+    permission: heroyn.api.structureapi

@@ -1,0 +1,17 @@
+name: AH_Survey
+version: 2.0
+author: Exorth
+main: fr.exorth.SurveyMain
+commands:
+  survey:
+    aliases: [sv]
+    description: Gestion sondages
+    permission: survey.survey.use
+  surveys:
+    aliases: [svs]
+    description: Menu Sondages
+    permission: survey.surveys.use
+  surveyedit:
+    aliases: [svedit]
+    description: Commandes spéciales
+    permission: survey.surveyedit.use

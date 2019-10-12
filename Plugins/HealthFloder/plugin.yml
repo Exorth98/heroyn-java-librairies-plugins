@@ -1,0 +1,7 @@
+name: HealthFloder
+version: 1.0
+author: Exorth
+main: fr.exorth.HealthFloder
+commands:
+  getfloder:
+    description: dossier de medical

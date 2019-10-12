@@ -1,0 +1,6 @@
+#Default config for AH_MelonSale by Exorth
+
+SellPrice:
+  melon: 0.0
+  cactus: 0.0
+

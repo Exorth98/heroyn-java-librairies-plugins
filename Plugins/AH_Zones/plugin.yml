@@ -1,0 +1,8 @@
+name: AH_Zones
+version: 1.0
+author: Exorth
+main: fr.exorth.Zones
+commands:
+  zone:
+    description: Gestion Zones
+    permission: zones.zone.use

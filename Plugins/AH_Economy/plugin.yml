@@ -1,0 +1,9 @@
+name: AH_Economy
+version: 1.0
+author: Exorth
+main: fr.exorth.AHEconomy
+depend: [Vault]
+commands:
+  dreams:
+    description: Commandes de gestion des dreams
+    permission: dreams.use

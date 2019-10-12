@@ -1,0 +1,8 @@
+name: AH_MobSpawners
+version: 1.0
+author: Exorth
+main: fr.exorth.MobSpawners
+commands:
+  msp:
+    description: Commande MobSpawners
+    permission: mobspawners.msp.use

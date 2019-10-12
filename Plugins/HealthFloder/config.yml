@@ -1,0 +1,23 @@
+#Default config for HealthFloder by Exorth
+
+Gamif:
+  sexe: Femme
+  gs: O -
+  taille: 165
+  poids: 62
+  age: 18
+  myopie: 23
+  hyper: 0
+  ast: 70
+  phys: 80
+  chirurgies:
+    - Humerus 02/05/2005
+    - Femur 06/11/2016
+    - Coude 21/01/2003
+    - Genoux 15/08/2014
+    - Poignet 30/03/2010
+
+
+
+
+

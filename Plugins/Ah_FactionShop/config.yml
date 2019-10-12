@@ -1,0 +1,11 @@
+#Default config for AHFactionShop by Exorth
+
+shopzone:
+  pos1:
+  pos2:
+
+references:
+insaledates:
+numberofsales:
+insellitems:
+

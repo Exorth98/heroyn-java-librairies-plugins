@@ -1,0 +1,8 @@
+name: AH_Rules
+version: 1.0
+author: Exorth
+main: fr.exorth.Rules
+commands:
+  regles:
+    description: Voir les règles
+    permission: rules.regles.use

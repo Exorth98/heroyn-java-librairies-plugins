@@ -1,0 +1,8 @@
+name: AH_MineGestion
+version: 1.0
+author: Exorth
+main: fr.exorth.MineGestion
+commands:
+  mg:
+    description: Commande MineGestion
+    permission: minegestion.mg.use

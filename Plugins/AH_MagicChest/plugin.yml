@@ -1,0 +1,26 @@
+name: AHMagicChest
+version: 1.0
+author: Exorth
+main: fr.exorth.MagicChest
+commands:
+  spawnmagicchest:
+    description: Spawn un coffre magique
+    permission: magicchest.spawnmagicchest.use
+  givemagickey:
+    description: Donne une clé magique
+    permission: magicchest.givemagickey.use
+  chestgains:
+    description: gestion des gains
+    permission: magicchest.chestgains.use
+  addgain:
+    description: ajouter un gain de give a un joueur
+    permission: magicchest.addgain.use
+  gains:
+    description: Récuperer ses gains
+    permission: magicchest.gains.use
+  check:
+    description: Verifier la validité d'une clé magique
+    permission: magicchest.check.use
+  magicchestload:
+    description: Relaod configs
+    permission: magicchest.reload.use

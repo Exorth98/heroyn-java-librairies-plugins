@@ -1,0 +1,8 @@
+name: AHDreamsGestion
+version: 1.0
+author: Exorth
+main: fr.exorth.DreamsGestion
+commands:
+  dreams:
+    description: Commandes de gestion des dreams
+    permission: dreams.use

@@ -1,0 +1,9 @@
+name: AH_MelonSale
+version: 1.0
+author: Exorth
+main: fr.exorth.MelonSale
+depends: [Vault]
+commands:
+  ms:
+    description: accès aux ventes
+    permission: melonsale.ms.use

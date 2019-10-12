@@ -1,0 +1,12 @@
+name: HeroynServerAPI
+version: 1.0
+author: HeroynDev
+main: net.heroyn.heroynserverapi.HeroynServerAPI
+api-version: 1.13
+commands:
+    test:
+        description: Commande de test
+    money:
+        description: Commande d'economie
+    maj:
+    maintenance:

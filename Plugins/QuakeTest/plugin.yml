@@ -1,0 +1,4 @@
+name: Quaketest
+version: 1.0
+author: Exorth
+main: fr.exorth.quaketest.Main
