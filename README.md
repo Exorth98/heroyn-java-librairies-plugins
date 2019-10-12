@@ -1,1 +1,1 @@
-"# java-minecraft-plugins-api" 
+# java-minecraft-plugins-api
